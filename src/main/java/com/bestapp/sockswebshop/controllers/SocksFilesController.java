@@ -1,7 +1,7 @@
-package com.bestapp.coursework03sockswebshop.controllers;
+package com.bestapp.sockswebshop.controllers;
 
-import com.bestapp.coursework03sockswebshop.model.Socks;
-import com.bestapp.coursework03sockswebshop.services.SocksFilesService;
+import com.bestapp.sockswebshop.model.Socks;
+import com.bestapp.sockswebshop.services.SocksFilesService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.media.ArraySchema;
 import io.swagger.v3.oas.annotations.media.Content;

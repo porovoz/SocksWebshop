@@ -1,4 +1,4 @@
-package com.bestapp.coursework03sockswebshop.services;
+package com.bestapp.sockswebshop.services;
 
 import org.springframework.web.multipart.MultipartFile;
 

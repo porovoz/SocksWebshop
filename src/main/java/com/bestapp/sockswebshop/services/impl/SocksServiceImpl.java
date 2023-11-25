@@ -1,10 +1,10 @@
-package com.bestapp.coursework03sockswebshop.services.impl;
+package com.bestapp.sockswebshop.services.impl;
 
-import com.bestapp.coursework03sockswebshop.model.Color;
-import com.bestapp.coursework03sockswebshop.model.Size;
-import com.bestapp.coursework03sockswebshop.model.Socks;
-import com.bestapp.coursework03sockswebshop.services.SocksFilesService;
-import com.bestapp.coursework03sockswebshop.services.SocksService;
+import com.bestapp.sockswebshop.model.Color;
+import com.bestapp.sockswebshop.model.Size;
+import com.bestapp.sockswebshop.model.Socks;
+import com.bestapp.sockswebshop.services.SocksFilesService;
+import com.bestapp.sockswebshop.services.SocksService;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;

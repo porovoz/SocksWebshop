@@ -1,8 +1,8 @@
-package com.bestapp.coursework03sockswebshop.services;
+package com.bestapp.sockswebshop.services;
 
-import com.bestapp.coursework03sockswebshop.model.Color;
-import com.bestapp.coursework03sockswebshop.model.Size;
-import com.bestapp.coursework03sockswebshop.model.Socks;
+import com.bestapp.sockswebshop.model.Color;
+import com.bestapp.sockswebshop.model.Size;
+import com.bestapp.sockswebshop.model.Socks;
 
 public interface SocksService {
 

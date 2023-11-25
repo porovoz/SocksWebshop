@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.bestapp</groupId>
-    <artifactId>Coursework03-SocksWebshop</artifactId>
+    <artifactId>SocksWebshop</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Coursework03-SocksWebshop</name>
-    <description>Coursework03-SocksWebshop</description>
+    <name>SocksWebshop</name>
+    <description>SocksWebshop</description>
     <properties>
         <java.version>17</java.version>
     </properties>

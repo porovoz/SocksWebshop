@@ -1,4 +1,4 @@
-package com.bestapp.coursework03sockswebshop.model;
+package com.bestapp.sockswebshop.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

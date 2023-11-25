@@ -1,13 +1,13 @@
-package com.bestapp.coursework03sockswebshop;
+package com.bestapp.sockswebshop;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Coursework03SocksWebshopApplication {
+public class SocksWebshopApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Coursework03SocksWebshopApplication.class, args);
+        SpringApplication.run(SocksWebshopApplication.class, args);
     }
 
 }

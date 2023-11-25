@@ -1,6 +1,6 @@
-package com.bestapp.coursework03sockswebshop.services.impl;
+package com.bestapp.sockswebshop.services.impl;
 
-import com.bestapp.coursework03sockswebshop.services.SocksFilesService;
+import com.bestapp.sockswebshop.services.SocksFilesService;
 import org.apache.commons.io.IOUtils;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;

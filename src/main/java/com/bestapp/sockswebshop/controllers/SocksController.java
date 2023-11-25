@@ -1,9 +1,9 @@
-package com.bestapp.coursework03sockswebshop.controllers;
+package com.bestapp.sockswebshop.controllers;
 
-import com.bestapp.coursework03sockswebshop.model.Color;
-import com.bestapp.coursework03sockswebshop.model.Size;
-import com.bestapp.coursework03sockswebshop.model.Socks;
-import com.bestapp.coursework03sockswebshop.services.SocksService;
+import com.bestapp.sockswebshop.model.Color;
+import com.bestapp.sockswebshop.model.Size;
+import com.bestapp.sockswebshop.model.Socks;
+import com.bestapp.sockswebshop.services.SocksService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.Parameter;
 import io.swagger.v3.oas.annotations.Parameters;
