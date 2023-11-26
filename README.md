@@ -1,3 +1,4 @@
+### (RU)
 # Web-приложение по учету носков на складе интернет-магазина
 
 Пользователь (работник склада) имеет возможность:
@@ -33,7 +34,7 @@
 ### Язык программирования
 - Java 17
 
-
+### (EN)
 # Web application for the accounting of socks in the warehouse of an online store
 
 The user (warehouse worker) has the ability to:
